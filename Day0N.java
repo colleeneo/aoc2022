@@ -1,8 +1,7 @@
-import java.util.Scanner;
-import java.io.IOException;
-import java.io.File;
+import java.util.*;
+import java.io.*;
 
-public class Day03{
+public class Day0N{
 
 
 
